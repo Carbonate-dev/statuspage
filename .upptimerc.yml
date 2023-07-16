@@ -16,7 +16,7 @@ status-website:
   cname: status.carbonate.dev
   # baseUrl: /your-repo-name
   logoUrl: https://avatars.githubusercontent.com/u/131012332?s=200&v=4
-  themeUrl: https://status.carbonate.dev/theme.css
+  themeUrl: https://raw.githubusercontent.com/Carbonate-dev/statuspage/master/assets/theme.css
   name: Carbonate Status Page
   introTitle: "**Carbonate** turns simple language driven instructions into end-to-end tests."
   introMessage: This page provides an update on the uptime of Carbonate and its associated systems.
